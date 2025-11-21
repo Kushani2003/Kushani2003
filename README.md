@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushani2003" alt="kushani2003" /></a> </p>
 
-- 🔭 I’m currently working on **"K&S products" website**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **React and Firebase**
 
-- 💬 Ask me about **React and Firebase**
+- 💬 Ask me about **React, MERN fullstack**
 
 - 📫 How to reach me **kushanishaveena@gmail.com**
 
